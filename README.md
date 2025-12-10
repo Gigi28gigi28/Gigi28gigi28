@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hadjer 👋</h1>
 
 <p align="center">
-  Passionate AI & Software Engineering Student • Full-Stack Dev • ML/DL Enthusiast
+   AI & Software Engineering Student • Full-Stack Dev • ML/DL Enthusiast
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ### 🌐 Portfolio & Links
 - 🌍 Portfolio website: **Coming soon**
 - 📄 CV: Coming soon
-- 💬 Ask me about **AI, Machine Learning, Deep Learning, NLP, LLMs, RAG, React, Node.js, Django, Microservices**
-- 📫 How to reach me: **your_email_here**
+- 💬 Ask me about **AI, Machine Learning, Deep Learning, NLP, LLMs, RAG, MERN development, Django, Microservices**
+- 📫 How to reach me: **hadjersilmi28@gmail.com**
 
 ---
 
@@ -75,21 +75,3 @@ I never give up. I keep grinding until I get what I want.
 - Agile (Scrum) using Jira  
 
 ---
-
-## 🔥 Current Goals
-- Master LLMs & advanced RAG systems  
-- Build portfolio-ready AI-powered apps  
-- Get internship/job in AI or backend engineering  
-
----
-
-## 📫 Connect With Me
-<div>
-  <a href="yourLinkedInURL"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</div>
-
----
-
-## 🐱
-I like cats.
-
