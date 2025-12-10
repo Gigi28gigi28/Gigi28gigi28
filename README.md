@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hadjer 👋</h1>
+<h1 align="center">Hi, I'm SILMI Hadjer — trained on coffee, stress, and backpropagation </h1>
 
 <p align="center">
    AI & Software Engineering Student • Full-Stack Dev • ML/DL Enthusiast
