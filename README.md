@@ -19,21 +19,20 @@ I never give up. I keep grinding until I get what I want.
 
 ---
 
-## 📚 What I Study (University + Extra Learning)
+## 📚 Academic Foundations & Core Knowledge
 
-### **S1–S2 (Fundamentals)**
 - Algorithms & Data Structures  
-- OOP  
-- Complexity  
-- C, Java basics  
-
-### **S3–S4 (Advanced Core)**
-- Databases (SQL + NoSQL)  
-- Graph Theory  
-- Optimization Techniques  
-- UML, Software Design  
-- Design Patterns  
-- OS & Security Basics  
+- Object-Oriented Programming  
+- Time & Space Complexity  
+- Database Systems (SQL & NoSQL)  
+- Graph Theory & Optimization Techniques  
+- Software Engineering Concepts  
+  - UML  
+  - Design Patterns  
+  - Software Architecture  
+- Operating Systems Basics  
+- Security Fundamentals
+- compilation
 
 ---
 
