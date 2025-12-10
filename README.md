@@ -66,6 +66,10 @@ I never give up. I keep grinding until I get what I want.
 ### **DevOps & Tools**
 <div>
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=jest" />
+</div>
+
 </div>
 
 ### **Architecture & Methodology**
