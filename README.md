@@ -14,11 +14,6 @@
 
 ---
 
-### ⚡ Fun Fact
-I never give up. I keep grinding until I get what I want.
-
----
-
 ## 📚 Academic Foundations & Core Knowledge
 
 - Algorithms & Data Structures  
@@ -39,7 +34,7 @@ I never give up. I keep grinding until I get what I want.
 ## 🧠 AI & Machine Learning Stuff I Do
 - ML: Decision Trees, Random Forest, KNN, K-means, Regression (linear/logistic)  
 - DL: ANN, CNN, RNN, LSTM  
-- NLP basics  
+- NLP BiLSTM , Bert 
 - LLM fine-tuning  
 - Built chatbots using **LangChain + RAG + vector DB**  
 - Python ML stack: NumPy, Pandas, Scikit-learn, TensorFlow, Keras  
