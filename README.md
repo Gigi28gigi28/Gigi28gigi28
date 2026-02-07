@@ -6,14 +6,6 @@
 
 ---
 
-### 🌐 Portfolio & Links
-- 🌍 Portfolio website: **Coming soon**
-- 📄 CV: Coming soon
-- 💬 Ask me about **AI, Machine Learning, Deep Learning, NLP, LLMs, RAG, MERN development, Django, Microservices**
-- 📫 How to reach me: **hadjersilmi28@gmail.com**
-
----
-
 ## 📚 Academic Foundations & Core Knowledge
 
 - Algorithms & Data Structures  
